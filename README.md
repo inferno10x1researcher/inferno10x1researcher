@@ -74,7 +74,6 @@ Is there anything specific you're working on or need help with?</p>
 <div align="center"
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/664f27fad6b907c7f774f403?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
 </div>
-https://roadmap.sh/u/inferno101x1research
 
 ###
 
