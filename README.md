@@ -71,12 +71,7 @@ Is there anything specific you're working on or need help with?</p>
 ###
 
 <h3 align="left"></h3>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/664f27fad6b907c7f774f403?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
 
 ###
 
-#<h3 align="left">📊 GitHub Stats</h3>
-#<div align="center">
- # <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-#</div>
-
-###
