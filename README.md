@@ -1,4 +1,4 @@
-<h2>🚀 Ethical Hacker & Bug Bounty Specialist | MERN Stack Developer </h2>
+<h2>🚀 Ethical Hacker & Bug Bounty Specialist | MERN Stack Developer</h2>
 
 <h3>Welcome to my GitHub! I'm passionate about securing the digital frontier and building robust web applications. With a strong background in ethical hacking, bug bounty programs, and full-stack web development, I specialize in identifying vulnerabilities and ensuring digital systems are safe and secure.</h3>
 
@@ -109,15 +109,14 @@
 <p>📬 How to reach me:</p>
 <ul>
     <li>Email: infernosec29@gmail.com</li>
-    <li>LinkedIn: https://www.linkedin.com/in/kaushik-kumar-74562523a</li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/kaushik-kumar-74562523a" target="_blank">Kaushik Kumar</a></li>
 </ul>
 
 <h3>🔗 Connect with me:</h3>
 <ul>
-    <li><a href="https://x.com/inferno101x1">Twitter</li>
-    <li><a href="https://www.instagram.com/stories/inferno101x1researcher/">Instagram</li>
-    <li><a href="https://bugcrowd.com/inferno101x1researcher">Bugcrowd</li>
-
+    <li><a href="https://x.com/inferno101x1" target="_blank">Twitter</a></li>
+    <li><a href="https://www.instagram.com/stories/inferno101x1researcher/" target="_blank">Instagram</a></li>
+    <li><a href="https://bugcrowd.com/inferno101x1researcher" target="_blank">Bugcrowd</a></li>
 </ul>
 
 <h3>Contributing</h3>
